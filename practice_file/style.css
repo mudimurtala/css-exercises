@@ -64,3 +64,9 @@ button.highlight {
   background-color: yellow;
   color: black;
 }
+
+
+.btn.primary {
+  background-color: blue;
+  color: white;
+}
