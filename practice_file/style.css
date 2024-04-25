@@ -1,4 +1,9 @@
 
 .alert-text {
-    color: yellow;
+    color: black;
   }
+
+.common-style {
+    color: #007BFF;
+    font-family: Arial, sans-serif;
+}
