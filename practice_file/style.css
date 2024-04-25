@@ -10,3 +10,11 @@
     max-width: 200px;
     margin: auto;
 }
+
+/*Base button styling*/
+.btn {
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-family: Arial, sans-serif;
+}
