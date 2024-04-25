@@ -6,4 +6,7 @@
 .common-style {
     color: #007BFF;
     font-family: Arial, sans-serif;
+    width: 100%;
+    max-width: 200px;
+    margin: auto;
 }
