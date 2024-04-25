@@ -42,3 +42,19 @@
 .text-color {
   color: indigo;
 }
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.card-header {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.card-content {
+  font-size: 16px;
+}
