@@ -18,3 +18,15 @@
   cursor: pointer;
   font-family: Arial, sans-serif;
 }
+
+/*Color class*/
+.base-color {
+  background-color: #007BFF;
+  color: white;
+}
+
+/*Size class*/
+.large {
+  font-size: 16px;
+  padding: 15px 30px;
+}
