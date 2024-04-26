@@ -6,6 +6,7 @@
 }
 
 .box-2 {
+    box-sizing: border-box;
     width: 700px;
     height: 300px;
 }
