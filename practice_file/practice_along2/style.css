@@ -1,5 +1,6 @@
 
 .box-1 {
+    box-sizing: content-box;
     width: 700px;
     height: 300px;
 }
