@@ -1,0 +1,31 @@
+/* Spacing Utilities */
+.m-0 { margin: 0; }
+.mt-1 { margin-top: 0.25rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.p-1 { padding: 0.25rem; }
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+.py-3 { padding-top: 1rem; padding-bottom: 1rem; }
+
+/* Typography Utilities */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.font-bold { font-weight: bold; }
+.text-uppercase { text-transform: uppercase; }
+
+/* Display Utilities */
+.d-block { display: block; }
+.d-inline { display: inline; }
+.d-inline-block { display: inline-block; }
+.d-none { display: none; }
+
+/* Flexbox Utilities */
+.flex { display: flex; }
+.flex-column { flex-direction: column; }
+.justify-center { justify-content: center; }
+.align-items-center { align-items: center; }
+
+/* Color Utilities */
+.bg-primary { background-color: #007bff; } /* Example for a primary color */
+.text-danger { color: #dc3545; } /* Use for texts that indicate danger or errors */
+.border-light { border-color: #f8f9fa; }
